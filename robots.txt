@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://isalpro.org/sitemap.xml
